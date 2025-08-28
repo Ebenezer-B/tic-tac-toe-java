@@ -24,3 +24,13 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts like cl
 4. Run the code:
    ```bash
    java TicTacToe.java
+
+---
+
+## 📸 Sample Output
+
+Here’s the game running in the console:
+
+![Tic Tac Toe Screenshot](screenshot.png)
+
+
