@@ -21,3 +21,6 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts like cl
 3. Compile the code:
    ```bash
    javac TicTacToe.java
+4. Run the code:
+   ```bash
+   java TicTacToe.java
